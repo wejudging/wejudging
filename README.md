@@ -1,16 +1,70 @@
-### Hi there 👋
+<h2 align="center">👋 Hi 欢迎访问我的GitHub</h2>
 
-<!--
-**wejudging/wejudging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align='right' src="https://profile-counter.glitch.me/wejudging/count.svg" alt="访客数量"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄**后端** C,C++,Java,Python,go
+- 😃**前端** HTML,CSS,JavaScript, vue
+- 😆**数据库** MySQL
+- 😝**框架** SpringBoot
+- 😛**设计** Photoshop,Final Cut Pro
+- 😧**都不精通**
+
+**本周编码时长**
+
+<!--START_SECTION:waka-->
+```text
+Week: 28 March, 2021 - 04 April, 2021
+
+💬 编程语言: 
+Python            8 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   38.92% 
+Java              8 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.91% 
+Swift            3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
+Markdown          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+
+🔥 常用编辑器: 
+PyCharmCore       9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.97% 
+IntelliJ          9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.67% 
+Xcode              3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
+
+💻 操作系统: 
+MacOS           22 hrs 49 mins      █████████████████████████   100.0%
+
+```
+
+
+<!--END_SECTION:waka-->
+
+
+
+
+<details>
+<summary>GitHub统计信息</summary>
+
+<br/>
+# weijiajin
+
+> A coder committed to creating perfect sdk.
+
+<img src="https://github-readme-stats.vercel.app/api?username=wejudging&show_icons=true&hide_border=true">
+
+
+<br>
+
+----
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+
+
+---
+
+*近期更新*
+
+
+<br/>
+
+[![wejudging's contribution graph as a Game of Life](https://github4life.herokuapp.com/wejudging.gif)](https://github4life.herokuapp.com/wejudging)
+
+</details>
+
+
