@@ -48,8 +48,6 @@ MacOS           22 hrs 49 mins        ██████████████
 *近期更新*
 
 
-<br/>
-
 [![wejudging's contribution graph as a Game of Life](https://github4life.herokuapp.com/wejudging.gif)](https://github4life.herokuapp.com/wejudging)
 
 
