@@ -42,12 +42,3 @@ MacOS           22 hrs 49 mins        ██████████████
 
 <img src="https://github-readme-stats.vercel.app/api?username=wejudging&show_icons=true&hide_border=true">
 
-
----
-
-*近期更新*
-
-
-[![wejudging's contribution graph as a Game of Life](https://github4life.herokuapp.com/wejudging.gif)](https://github4life.herokuapp.com/wejudging)
-
-
